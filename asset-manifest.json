@@ -15,9 +15,9 @@
     "static/media/reset.css": "/PixelHousingMint/static/media/font.617a0a92.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.152c25a9.js",
-    "static/js/2.ec5fbb34.chunk.js",
-    "static/css/main.9cb850d9.chunk.css",
-    "static/js/main.ded0550a.chunk.js"
+    "/PixelHousingMint/static/js/runtime-main.152c25a9.js",
+    "/PixelHousingMint/static/js/2.ec5fbb34.chunk.js",
+    "/PixelHousingMint/static/css/main.9cb850d9.chunk.css",
+    "/PixelHousingMint/static/js/main.ded0550a.chunk.js"
   ]
 }
